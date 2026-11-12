@@ -1,9 +1,7 @@
-package main
+package dog
 
 import (
 	"strings"
-
-	"github.com/matif607/puppy"
 )
 
 func WhenGrownUp(s string) string {
